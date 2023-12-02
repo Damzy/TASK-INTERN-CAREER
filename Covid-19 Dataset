@@ -1,0 +1,24 @@
+# COVID DATASET #
+
+This data set is from Intern Career and it comtains both Terrorism and Covid-19 Datasets
+
+There were a couple questions to answer from the dataset, 
+**which include;**
+
+1. Daily Case Trends
+2. Geospatial Analysis
+3. Comparative Analysis
+4. Narrative and Insights
+
+**The process involved in achieving this**
+
+1. Understanding the dataset.
+2. Importing the COVID-19 Daily Cases dataset into Power BI.
+3. Clean the data to handle any missing values and ensure consistency.
+4. Set up the data for time series analysis.
+3. Answering the required questions .
+4. Documenting the project on Github.
+5. Connecting Power BI to SQL and importing my data for further analysis and visualization also publishing to power BI service
+
+Covid-19 Dataset: https://app.powerbi.com/links/iOgVqHvXZ4?ctid=5d24ae01-d811-42f8-9e19-b1e3705a1ffc&pbi_source=linkShare
+LinkedIN:
